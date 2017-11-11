@@ -1,0 +1,15 @@
+.navbar-brand {
+	background-color: #4aaaa5;
+}
+#navbar-color {
+	color: #ffffff;
+}
+.panel-heading {
+	display:block;
+	background-color: #4aaaa5!important;
+	color: #ffffff;
+}
+.Message {
+	height: 100px;
+	max-height: 1000px;
+}
